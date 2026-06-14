@@ -1,0 +1,5 @@
+streamlit
+pylint
+ollama
+plotly
+reportlab
