@@ -3,3 +3,5 @@ pylint
 ollama
 plotly
 reportlab
+streamlit
+groq
